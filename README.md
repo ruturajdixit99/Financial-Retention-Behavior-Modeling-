@@ -53,6 +53,10 @@ Copy code
 
 ---
 
+
+<img width="2133" height="1012" alt="newplot (2)" src="https://github.com/user-attachments/assets/dee3147d-ea93-4e2b-a820-54b5b9034c41" />
+
+
 ## 🏆 Top Churn Predictors
 
 | Feature | Business Interpretation |
